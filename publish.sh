@@ -1,4 +1,6 @@
-#!/bin/sh
+#!/bin/bash
+
+set -euxo pipefail
 
 if [ "`git status -s`" ]
 then
