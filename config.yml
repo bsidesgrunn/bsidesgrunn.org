@@ -1,0 +1,7 @@
+baseURL: "https://bsidesgrunn.org/"
+languageCode: en-us
+title: BSides Groningen
+theme: Default
+params:
+  slogan: BSides Groningen is an Information Security conference organized by the community for the community.
+  mastodon: "https://infosec.exchange/@bsidesgrunn"
